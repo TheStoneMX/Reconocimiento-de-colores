@@ -22,7 +22,7 @@ Imagen
 
 Debe conocer 2 fenómenos principales para comprender los sistemas básicos de detección / reconocimiento de objetos de la visión artificial y el aprendizaje automático.
 
-1.) Extracción de características
+**1.) Feature Extraction**
 
 Cómo representar los puntos interesantes que encontramos para compararlos con otros puntos interesantes (características) en la imagen.
 
