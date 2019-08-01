@@ -94,7 +94,7 @@ Citación
 Si usa este código para sus publicaciones, cítelo como:
 
 @ONLINE{cr,
-    author = "Ahmet Özlü",
+    author = "Oscar Rangel",
     title  = "Color Recognition",
     year   = "2018",
     url    = "https://github.com/TheStoneMX/Reconocimiento-de-colores/"
